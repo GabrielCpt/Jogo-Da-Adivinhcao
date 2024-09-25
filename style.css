@@ -26,7 +26,7 @@ body::before {
 }
 
 .container {
-    background-image: url(img/code.png);
+    background-image: url("img/code.png");
     background-repeat: no-repeat;
     background-size: 750px;
     background-position: 95%;
